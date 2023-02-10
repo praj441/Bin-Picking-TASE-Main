@@ -89,7 +89,6 @@ FCN/__pycache__
 FCN/weights
 
 
-FCN_regress/
 
 FCN_regress/fcn_depth_high_wmse
 FCN_regress/__pycache__
