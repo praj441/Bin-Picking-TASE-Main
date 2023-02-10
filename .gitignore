@@ -1,0 +1,16 @@
+.idea
+commons/bkp-sim
+commons/__pycache__
+commons/temp
+commons/*.pyc
+result_dir
+rtde-2.6.0
+simulation
+real_data
+temp
+urdfs
+votenet
+FCN
+FCN_regress
+*pyc
+Paper-writing
